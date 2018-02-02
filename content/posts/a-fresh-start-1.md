@@ -25,5 +25,5 @@ Learning topic itself taught me. I have learned about incidental(which I've most
 
 Deliberate learning especially made me think about my learning process. Most of the time at work, I incidentally learn things in order to complete a task. After completing task, I mostly don't think about the concept itself. The program aims to teach deliberately.
 
-I also had chance to attend my first Co Co Co(Coffe, Code, Collaboration) session. The topic was comparing strict development environment to more free environment. Daniel, collague apprentice stated the pros and cons of both approaches. I loved that so many people attended to meeting and there were so many good ideas. 
+I also had chance to attend my first Co Co Co(Coffe, Code, Collaboration) session. The topic was comparing strict development environment to more free environment. Daniel, collague apprentice, stated the pros and cons of both approaches. I loved that so many people attended to meeting and there were so many good ideas. 
 
