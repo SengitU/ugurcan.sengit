@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://jovial-roentgen-fbe6ec.netlify.com/"
 languageCode = "en-us"
 theme = "minimal"
 title="Stack trace of a software developer"
