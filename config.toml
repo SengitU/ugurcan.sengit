@@ -1,11 +1,10 @@
 baseURL = "https://jovial-roentgen-fbe6ec.netlify.com/"
 languageCode = "en-us"
 theme = "minimal"
-title="Stack trace of a software developer"
 
 [params]
     author = "Ugurcan Sengit"
-    description = "Ugurcan Sengit"
+    description = "Stack trace of a software developer</br></br>Ugurcan Sengit"
     githubUsername = "sengitu"
     showBorder = true
     backgroundColor = "white"
