@@ -1,6 +1,6 @@
 ---
 title: A Fresh Start
-slug: "a-fresh-start-1"
+slug: "a-fresh-start"
 date: 2018-02-01
 ---
 
