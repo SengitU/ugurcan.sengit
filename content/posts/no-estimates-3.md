@@ -1,7 +1,7 @@
 ---
 title: "#NoEstimates"
 slug: "no-estimates"
-tags: ["#NoEstimates", "Trello", "Agile Methods"]
+tags: ["NoEstimates", "Trello", "Agile Methods"]
 date: 2018-02-05
 ---
 
