@@ -1,6 +1,7 @@
 ---
 title: A Fresh Start
 slug: "a-fresh-start"
+tags: ["HolidayCheck", "Crafter", "learning"]
 date: 2018-02-01
 ---
 

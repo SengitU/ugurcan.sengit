@@ -1,6 +1,7 @@
 ---
 title: Branching Paths
 slug: "branching-paths"
+tags: ["Netlify", "Hugo", "Kata"]
 date: 2018-02-02
 ---
 
