@@ -5,9 +5,9 @@ tags: ["Scala", "SBT", "Exercism.io", "Kata"]
 date: 2018-02-07
 ---
 
-Let's get our hands a little more dirtier with `Scala`. First of all, I will talk about the hardest part. At least I thought it would be the hardest part. When I start with a brand new language, hardest part for me is always the very first steps. Setting up the environment! 
+Let's get our hands a little dirtier with `Scala`. First of all, I will talk about the hardest part. At least I thought it would be the hardest part. When I start with a brand-new language, hardest part for me is always the very first steps. Setting up the environment! 
 
-At my first job, I have used Java. It took a couple of days to set up the environment, even though we have used Ant to manage dependencies. Losing all the excitement of first few days to environment setup was total buzz kill. Modern Javascript is definitely better to be honest. Most of the time a simple `npm i` does the trick. Since Scala runs on top of JVM I was kinda afraid, but thanks to [sbt](https://www.scala-sbt.org/) that wasn't the case. 
+At my first job, I had used Java. It took a couple of days to set up the environment, even though we have used Ant to manage dependencies. Losing all the excitement of first few days to environment setup was total buzz kill. Modern Javascript is definitely better to be honest. Most of the time a simple `npm i` does the trick. Since Scala runs on top of JVM I was kinda afraid, but thanks to [sbt](https://www.scala-sbt.org/) that wasn't the case. 
 
 `Sbt` is a build tool for Scala with some cool features. You can simply create a new project from command line with a simple command: `sbt new sbt/scala-seed.g8`. The cool thing is, sbt has reasonable amount of project templates for people's needs. Most of the exercises I came across are using this tool which helps a lot for a smooth start to language!
 
