@@ -26,7 +26,8 @@ export const listNames = {
 }
 ~~~
 
-After this point, I created simple `key-value pair` to keep these listNames with their Ids. In order to create this pair, I needed to initialize class with the board data. I wanted this class to be `singletone` assuming that data will stay the same. I have overthought and I have failed to write testable code. Test implementations started to have huge `beforeEach` blocks with data initialization. Coupling between modules increased and I have failed to dodge this pitfall. After struggling for an hour, I realized that I am on a mud. I stopped being stubborn and removed whole class, just kept the tests. Eventually, I found another solution I can use for this case.
+After this point, I created simple `key-value pair` to keep these listNames with their Ids. In order to create this pair, I needed to initialize class with the board data. I wanted this class to be `singletone` assuming that data will stay the same.
+I have overthought and I have failed to write testable code. Test implementations started to have huge `beforeEach` blocks with data initialization. Coupling between modules increased and I have failed to dodge this pitfall. After struggling for an hour, I realized that I am on a mud. I stopped being stubborn and removed whole class, just kept the tests. Eventually, I found another solution I can use for this case.
 
 Every software crafter has been through this problem at some point. Accidently, we start to inject more meaning on a simple class. That simple class gets used by other developers for multiple purposes. At some point, abstraction becomes impossible. We must stop being stubborn and take a break to get rid of tunnel vision.
 
