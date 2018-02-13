@@ -31,4 +31,4 @@ I have overthought and I have failed to write testable code. Test implementation
 
 Every software crafter has been through this problem at some point. Accidently, we start to inject more meaning on a simple class. That simple class gets used by other developers for multiple purposes. At some point, abstraction becomes impossible. We must stop being stubborn and take a break to get rid of tunnel vision.
 
-Being able to realize that I am not going anywhere, saved my day. I have successfully published an alpha version on https://thirsty-almeida-17b439.netlify.com/. 
+Being able to realize that I am not going anywhere, saved my day. I have successfully published an alpha version on https://gracious-booth-c323f1.netlify.com/. 
