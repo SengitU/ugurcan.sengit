@@ -1,6 +1,7 @@
 baseURL = "https://jovial-roentgen-fbe6ec.netlify.com/"
 languageCode = "en-us"
 theme = "minimal"
+googleAnalytics = "UA-114193803-1"
 
 [params]
     author = "Ugurcan Sengit"
