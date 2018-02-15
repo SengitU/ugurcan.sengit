@@ -15,7 +15,7 @@ At some point, every one of us leave this safe shelter, this cocoon. It doesn't 
 
 We must destroy that cocoon. We must defeat that illusionary peace. It is nothing more than a lie.
 
-Yes, today I exercised `Vim`. Until today, if there was one simple thing that I am good at in the World, it is that I know how to use my text editor professionally. The part I know was only a mode Vim, it was just the x-axis of a x-y plane.
+Yes, today I worked on `Vim`. I always tought that if there was one simple thing that I am good at in the World, it is that I know how to use my text editor professionally. The part I know was just a single mode in Vim, it was just the x-axis of a x-y plane.
 
 There are two mods in Vim which `Normal` and `Insert`. Vim starts with Normal mode which a proficient user easily uses macros to apply repetitive work and navigate over the pages. Then there is the Insert mode, provided as default in majority of the text editors.
 
