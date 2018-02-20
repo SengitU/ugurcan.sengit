@@ -1,8 +1,8 @@
 ---
 title: "Pet Projects"
 slug: "pet-projects"
-tags: ["TestDrivenDevelopment", "TDD", "Apprenticeship"]
-date: 2018-02-16
+tags: ["Change", "SideProjects", "PetProjects"]
+date: 2018-02-20
 ---
 
 `The only thing that doesn't change is change itself`. The expectations of our clients, the tools we use to fulfil these expectations, the language we use, everything, changes constantly. We must catch up with `today`, by learning and improving every day. Some of us might be lucky enough to apply the newest techniques on daily basis at work, but that is not the case for most of us. Anyway, it is not our client's responsibility to support us to adapt and shape this constant change.
