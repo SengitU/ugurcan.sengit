@@ -5,7 +5,7 @@ tags: ["TestDrivenDevelopment", "TDD", "Apprenticeship"]
 date: 2018-02-16
 ---
 
-A developer must have a way to verify herself, must make sure that she develops the `thing right`. The best way of verification for the code is testing. Testing the code will provide the feedback that a developer needs. If the **behaviour** of the code is wrong, it is defined as a defect. A _bug_ causes this defect. No! Let's admit it, it's a _mistake_.
+A developer must have a way to verify herself, must make sure that she develops the `thing right`. The best way of verification for the code is testing. Testing the code will provide the feedback that a developer needs. If the **behaviour** of the code is wrong, it is defined as a defect. A _bug_ causes this defect. No! Let's admit it, like [JB Rainsberger](https://www.jbrains.ca/) says, it's a _mistake_.
 
 When a mistake occurs development will start again. There will be some rework done, and eventually, the code will be tested again. Even so, there is no way to assure that the code will make it to the production this time. What if we can raise the odds? What if we can decrease the rework?
 
