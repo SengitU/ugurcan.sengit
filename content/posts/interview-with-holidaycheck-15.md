@@ -1,5 +1,5 @@
 ---
-title: "Interview With HolidayCheck"
+title: "Interview with the HolidayCheck"
 slug: "interview-with-holidaycheck"
 tags: ["HolidayCheck"]
 date: 2018-02-23
