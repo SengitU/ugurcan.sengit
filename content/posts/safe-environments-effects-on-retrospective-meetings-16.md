@@ -19,4 +19,4 @@ I especially like this definition. One can do her best while she is comfortable 
 
 If we don't have the freedom that safe environment granted, if we don't trust our team, then we most likely to end up in the deserts created by fear. This shall never happen, as crafters, we all must stand against such cases and facilitate the team until the fear becomes trust.
 
-How do we manage this fear? I am just an apprentice, I don't know yet :)
+How do we manage this fear? I am just an apprentice, I will find out.
