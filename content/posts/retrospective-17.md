@@ -27,7 +27,7 @@ People will start to talk about the data gathered from previous part. The team n
 
 #### 4. Decide What to Do
 
-Teams without schedule or facilitator mostly skips this part. Talking about the issues is still good enough to create bonds between the members of the team, but without creating actions, the team will face with same problems over and over again. This will create disappointment for the retrospective meetings and will lead to failure.
+Teams without schedule or facilitator mostly skip this part. Talking about the issues is still good enough to create bonds between the members of the team, but without creating actions, the team will face the same problems over and over again. This will create disappointment for the retrospective meetings and will lead to failure.
 
 After every meeting, the team should create actions to do for the next iteration in order to overcome the problems.
 
@@ -35,6 +35,6 @@ After every meeting, the team should create actions to do for the next iteration
 
 After one or two hours of sharing, the team summarize the adventure by sharing some flowers with the members, or throwing balls and sharing what they learn.
 
-There is lots of ways to facilitate retrospectives and there is a lot more to read about it. I paraphrased my experience with my learnings.
+There are lots of ways to facilitate retrospectives and there is a lot more to read about it. I paraphrased my experience with my learnings.
 
 I especially want to share [Lauren Moon's Post](https://blog.trello.com/the-5-steps-to-better-team-retrospectives) about retrospectives. Also, I want to share [Retromat](https://plans-for-retrospectives.com/en/?id=43-121-113-63-60), a tool helps to find different practices for the stages of a retrospective meeting.
