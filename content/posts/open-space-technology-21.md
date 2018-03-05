@@ -23,6 +23,6 @@ There was also unique definitions in `Open Space Technology` I especially liked.
 
 The `Bumblebee` is a person who is not willing to complete a single session, instead cross-fertilizing the ideas between the sessions by attending different sessions during a session. This role increases creativity and shares solutions that other sessions came up to prevent reinventing the wheel.
 
-The `Butterfly` is a person that is not feel like to take part in a session, but a new unexpected conversation mayhappen when she meet with others.
+The `Butterfly` is a person that is not feel like to take part in a session, but a new unexpected conversation may happen when she meet with others.
 
-Most importantly, there is a law, `the law of two feet`. If one can find herself in a position that neither learning nor contributing, than she can leave the session. I loved the freedom that providden by the law of the two feet.
+Most importantly, there is a law, `the law of two feet`. If one can find herself in a position that neither learning nor contributing, then she can leave the session. I loved the freedom provided by the law of the two feet.
