@@ -1,11 +1,11 @@
 ---
-title: "Review of The Software Craftsman by Sandro Mancuso"
-slug: "review-of-the-software-craftsman-by-sandro-mancuso"
+title: "Book Review: The Software Craftsman"
+slug: "book-review-the-software-craftsman"
 tags: ["SoftwareCraftsmanship"]
 date: 2018-03-06
 ---
 
-Lately I have finished reading `The Software Craftsman` book by Sandro Mancuso. Reading the book is one of the goals of my apprenticeship program at HolidayCheck and it is an accurate onex. The book consists of history, experience and suggestions which would help to improve one's carrier decisions completely.
+Lately I have finished reading `The Software Craftsman` book by [Sandro Mancuso](https://twitter.com/sandromancuso). Reading the book is one of the goals of my apprenticeship program at HolidayCheck and it is an accurate onex. The book consists of history, experience and suggestions which would help to improve one's carrier decisions completely.
 
 Earlier chapters of the book, share some history about software development processes over the years and introduce the Agile Methodology. Afterwards the author introduces us to the software craftsmanship. He defines the problems about the current approaches and advocates software craftsmanship as `A Better Metaphor`. When we know enough about the metaphor and its history, author shares the manifesto. I would like to write down every one of the bullet points, since they aim to create a better software development community.
 
