@@ -1,6 +1,6 @@
 ---
-title: "Review on Software Craftsman by Sandro Mancuso"
-slug: "review-on-software-craftsman-by-sandro-mancuso"
+title: "Review of The Software Craftsman by Sandro Mancuso"
+slug: "review-of-the-software-craftsman-by-sandro-mancuso"
 tags: ["SoftwareCraftsmanship"]
 date: 2018-03-06
 ---
