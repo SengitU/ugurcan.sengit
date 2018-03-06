@@ -18,4 +18,4 @@ The following chapters are filled with previous experience of the author, which 
 
 Second part of the book is about a full transformation from a regular software developer to a crafter. Chapters are filled with carrier experiences and real-life problems. The author does not just say things, he supports his ideas with his experience and it makes the book so fluent.
 
-In my opinion, `The Software Craftsman` is a masterpiece and a must read for every software developer.
+In my opinion, `The Software Craftsman` is a must read for every software developer.
