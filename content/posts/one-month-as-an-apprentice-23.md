@@ -1,6 +1,6 @@
 ---
-title: "A Month As an Apprentice"
-slug: "a-month-as-an-apprentice"
+title: "One Month As an Apprentice"
+slug: "one-month-as-an-apprentice"
 tags: ["SoftwareCraftsmanship", "apprenticeship", "HolidayCheck"]
 date: 2018-03-07
 ---
