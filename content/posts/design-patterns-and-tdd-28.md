@@ -14,3 +14,5 @@ Creating an upfront design without writing a single test case cripples our minds
 On the other hand, TDD aims to write exact amount code to achieve what you have on your plate right now. Of course, you can see obvious things that could change in the future and apply abstractions in there, but TDD does not aim to write `future-proof` code.
 
 I couldn't find place to fit design patterns to TDD with the way I used design patterns. After some discussions with my colleagues, I think we should clearly see the necessary abstractions and the design patterns we should use at the refactoring step of TDD cycle, instead of deciding which one to use beforehand.
+
+_PS: Rest in Peace Stephen Hawking_
