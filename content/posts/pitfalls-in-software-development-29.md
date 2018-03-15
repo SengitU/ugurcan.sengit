@@ -11,7 +11,9 @@ Basically, the diamond problem is the situation when a class needs to have behav
 
 So, is the inheritance evil? I think it's not. We benefit from inheritance as long as we use it carefully and keep them flat. If we do not keep them flat, we will end up with the monkey-banana problem, let's write about it another day.
 
-Getters could expose internal state of a component for mutation, then should we skip using them at all? Of course not. But, it's important to know upsides and downsides the techniques we are using. _We need to know common pitfalls as well as we know the design patterns._
+Getters could expose internal state of a component for mutation, then should we skip using them at all? Of course not. But, it's important to know upsides and downsides the techniques we are using. 
+
+> We need to know common pitfalls as well as we know the design patterns.
 
 Throughout our journey in software development, today's important concepts will become obsolete and new concepts will arise. We must keep ourselves up to date to make important trade-off's when the time comes.
 
