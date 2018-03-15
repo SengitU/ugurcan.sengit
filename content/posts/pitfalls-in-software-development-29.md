@@ -18,5 +18,7 @@ Throughout our journey in software development, today's important concepts will 
 I would like to share some resources that would help a lot.
 
 [Detailed example on diamond problem](https://medium.freecodecamp.org/multiple-inheritance-in-c-and-the-diamond-problem-7c12a9ddbbec)
+
 [Getters/Setters. Evil. Period.](http://www.yegor256.com/2014/09/16/getters-and-setters-are-evil.html)
+
 [Composition over Inheritance](https://medium.com/humans-create-software/composition-over-inheritance-cb6f88070205)
