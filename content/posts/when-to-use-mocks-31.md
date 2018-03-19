@@ -1,6 +1,6 @@
 ---
-title: "When to Mock?"
-slug: "when-to-mock"
+title: "When to Use Mocks?"
+slug: "when-to-use-mocks"
 tags: ["TestDrivenDevelopment", "Mock", "Apprenticeship"]
 date: 2018-03-19
 ---
