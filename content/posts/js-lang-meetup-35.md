@@ -1,7 +1,7 @@
 ---
 title: "Javascript The Language Meetup"
 slug: "javascript-the-language-meetup"
-tags: ["Meetup", "Munich","Javascript", "Apprenticeship"]
+tags: ["Meetup", "Munich","Javascript", "jslang", "Apprenticeship"]
 date: 2018-03-23
 ---
 
