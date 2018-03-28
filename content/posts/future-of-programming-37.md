@@ -5,7 +5,7 @@ tags: ["GenderInequality", "SoftwareDevelopment", "Apprenticeship"]
 date: 2018-03-27
 ---
 
-I would like to share a must-see presentation for every software enthusiastic. The [presentation](https://www.youtube.com/watch?v=ecIWPzGEbFc) is about Future of Programming by Robert C. Martin. There is no tl;dr available for this video and there shouldn't be.
+I would like to share a must-see presentation for every software enthusiasts. The [presentation](https://www.youtube.com/watch?v=ecIWPzGEbFc) is about Future of Programming by Robert C. Martin. There is no tl;dr available for this video and there shouldn't be.
 
 Throughout the presentation, he summarizes the history of programming, from vacuum tubes to transistors. He draws a virtual timeline for us to understand history of programming, before understanding its future.
 
