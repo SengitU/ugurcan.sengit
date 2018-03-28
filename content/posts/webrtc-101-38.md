@@ -13,7 +13,7 @@ RTC part in WebRTC stands for `Real Time Communication`, hence WebRTC aims to cr
 
 After WebRTC, every modern browser started to implement specifications and the networking plug-ins became obsolete. Even though there were some differences between Firefox's and Chrome's API's having similar API's made it easier for companies to implement their own solutions. Since companies already had working software with their plug-ins, most of them didn't bother to implement their WebRTC client, but Google found a radical way to enforce it. As of version 42, Google removed support for NPAPI support, which most of the plugins used.
 
-Enough history, so basically, WebRTC provides some functions to access camera and microphone of user, by the permission of the user of course. Provides methods for creating `Session Description Protocol (SDP)` to complete signalization. Anyone could create communicate two parties by the help of this SDP's.
+Enough with history, so basically, WebRTC provides some functions to access camera and microphone of user, by the permission of the user of course. Provides methods for creating `Session Description Protocol (SDP)` to complete signalization. Anyone could create communicate two parties by the help of this SDP's.
 
 What you need to do is;
 
