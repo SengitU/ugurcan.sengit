@@ -9,7 +9,8 @@ We are surrounded by frameworks that makes our lives easier. Especially in the J
 
 It might seems like I am complaining, but I am not. I feel lucky to be inspired by the talents around the world. I am grateful everyone who contributes this enriched environment. I don't think any other industry shares as much as software developers share. On the other hand, how can we survive in this environment? How can we find what exactly suits for our project?
 
-{{< tweet 965864291500019712 >}}
+<blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">Using webpack for my &quot;hello world&quot; app <a href="https://t.co/MmnXTl0ebw">pic.twitter.com/MmnXTl0ebw</a></p>&mdash; Tomasz Łakomy ⚛ (@tlakomy) <a href="https://twitter.com/tlakomy/status/965864291500019712?ref_src=twsrc%5Etfw">February 20, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 The tweet above explicitly mentions `webpack`, but also applicable for `react`, `jest` or any other framework we use every day. We don't need to deal with webpack configuration for a simple pet project. We could prefer `mocha` -or even more lightweight one- over `jest` if we don't need any mocking feature. Frameworks try to solve everyone's problem, they try to provide additional features to attract people, but do we need them? The more we use, the more we deal with performance issues and the bundle size.
 
