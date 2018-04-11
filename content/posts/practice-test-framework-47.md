@@ -46,4 +46,4 @@ const reporter = (outputDevice) => {
 module.exports = reporter;
 ```
 
-This approach helped me to inject my mock function as output device and increased testability. I've added a runner module to operate executing and reporting process, a collector to collect tests provided by user, and a file loader to discover test files. Even though they didn't integrate magically, after dealing with some little issues, I have my test framework up and running.
+This approach helped me to inject my mock function as output device and increased testability. I've added a runner module to operate executing and reporting process, a collector to collect tests provided by user, and a file loader to discover test files. Even though they didn't integrate magically, after dealing with some little issues, I had my test framework up and running.
