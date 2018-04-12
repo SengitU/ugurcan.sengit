@@ -5,7 +5,7 @@ tags: ["TDD", "Apprenticeship"]
 date: 2018-04-11
 ---
 
-I have almost completed my practice with the [test framework](https://github.com/SengitU/beaverjs). I definitely recommend everyone to practice on this concept. It's more than a practice, it made me question very basic concepts that I use every day.
+I have almost completed my practice with the [test framework](https://github.com/SengitU/kavun). I definitely recommend everyone to practice on this concept. It's more than a practice, it made me question very basic concepts that I use every day.
 
 I've started up with exploring. I didn't wrote strict tests, I directly dove into code with integration-like tests. This approach helped me to figure out how I wanted to build my API. After I realize this, I almost removed everything and started over with a simple test;
 

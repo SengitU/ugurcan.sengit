@@ -18,4 +18,4 @@ With `assertion`, we are able to validate our units. These units come together a
 
 If we aim to write the simplest test framework, we can easily use assertions built in our language. Node.js' [assert API](https://nodejs.org/api/assert.html), provides that for us, hence we don't need to add anything. Specs are defined by the users of the framework, where we just need to provide an elegant structure that users can follow. We don't need to struggle with reporter, a simple "3 tests are failed" text can be an output for the reporter, also there are some alternatives like [nyan.cat](https://github.com/dgarlitt/karma-nyan-reporter) if you want to have fun. The hardest part for me was the runner part. At the beginning, it seemed easy, but it was hard to implement the reporter without depending on global variables and context.
 
-I shared my work on [this repository](https://github.com/SengitU/beaverjs), it's still in progress, but reviews are always welcome.
+I shared my work on [this repository](https://github.com/SengitU/kavun), it's still in progress, but reviews are always welcome.
