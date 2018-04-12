@@ -7,7 +7,7 @@ date: 2018-04-12
 
 As I continue to learn `Scala` by the help of `Scala for the Impatient` book, I gain more insight about the language. First of all, Scala tries to minimize number of keystrokes required to achieve some functionality. Unlike Java, a class can be defiend as `class Name(val someVal: String)` or in a standart form like `class Name {}`, and almost every specialized format of defining things, has their own unique behaviours. I guess this yields confusion for the newcomers.
 
-Return to the subject, constructors. Unlike Java, constructors don't have to have same name with the class itself in Scala. I will start with, `auxiliary constructors`. Besides the fancy name, this type of constructors achieves same functionality with the constructor overloading. Auxiliary constructors can be chained with the other auxiliary constructor. If an auxiliary constructor is not chained with another one, it must be chained with the primary constructor. For example;
+Return to the subject, constructors. Unlike Java, constructors don't have to have the same name with the class itself in Scala. I will start with, `auxiliary constructors`. Besides the fancy name, this type of constructors achieves same functionality with the constructor overloading. Auxiliary constructors can be chained with the other auxiliary constructor. If an auxiliary constructor is not chained with another one, it must be chained with the primary constructor. For example;
 
 ```scala
 class Cat {
@@ -32,7 +32,7 @@ val kavun = new Cat("Kavun")
 val beyazPeynir = new Cat("Beyaz Peynir", 1)
 ```
 
-There is also a `primary constructor`, which treats class as function and defines fields in the parameters. This would feel odd after Java, but I am living in the wondrous world of Javascript for four years now, I can get used to anything. For example, following is a primary constructor;
+There is also a `primary constructor`, which treats the class as a function and defines fields in the parameters. This would make you feel odd after Java, but I am living in the wondrous world of Javascript for four years now, I can get used to anything. For example, following is a primary constructor;
 
 ```scala
 class Cat(val name: String, val age: Int) {
@@ -41,7 +41,7 @@ class Cat(val name: String, val age: Int) {
 }
 ```
 
-At first glance, code above seemed extremely odd to me. Scala merged primary constructor with the class definition itself. With this definition, when an instance instantiates from `Cat` class, `name` and `age`properties assigns immediately. In Javascript class syntax, we need to assign given name and age to in the constructor `this.name = name`. Scala removed the `constructor` method and assignments with this handy syntax. It's not just that, the primary constructor executes all statements inside of the class, hence every created instance of `Cat` will `Purr!` in the example above.
+At a first glance, code above seemed extremely odd to me. Scala merged primary constructor with the class definition itself. With this definition, when an instance instantiates from `Cat` class, `name` and `age`properties assigns immediately. In Javascript class syntax, we need to assign given name and age to the constructor `this.name = name`. Scala removed the `constructor` method and assignments with this handy syntax. It's not just that, the primary constructor executes all statements inside of the class, hence every created instance of `Cat` will `Purr!` in the example above.
 
 In the example above, age is a `val` which we can't change, but it should be able to change each year. So, constructor could be rephrased like;
 
