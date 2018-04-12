@@ -51,4 +51,4 @@ class Cat(val name: String, private var age: Int) {
 }
 ```
 
-Yes, we can even decide if the field is private or not. Scala doesn't push developers to use this syntax, so if you don't like the syntax, you are still be able to build your constructors with auxiliary constructors. Does the merging constructor with the definition of class violates separation of concerns? I don't know, but I like this syntax. Besides, React also violates separation of concerns to a certain degree by combining HTML and Javascript.
+Yes, we can even decide if the field is private or not. Scala doesn't push developers to use this syntax, so if you don't like the syntax, you will still be able to build your constructors with auxiliary constructors. Does the merging constructor with the definition of class violate separation of concerns? I don't know, but I like this syntax. Besides, React also violates separation of concerns to a certain degree by combining HTML and Javascript.
