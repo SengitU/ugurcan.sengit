@@ -7,7 +7,7 @@ date: 2018-04-16
 
 I've been searching for an elegant way to inject module dependencies in nodejs. I need to inject dependencies mostly for testing, and test frameworks usually have their dependency injection approach. Even though I admit that it's overkill for a small sized project, I've been using jest for a while. It also has its own dependency injection solutions.
 
-Assume that, you have following module;
+Assume that, you have the following module;
 
 ```js
 const fancyLogger = require('../utils/fancy-logger');
@@ -26,10 +26,10 @@ const reporter = () => {
 module.exports = reporter;
 ```
 
-In order to test that simple `log` function, we need to inject `fancyLoggerMock`, hence we would be able to check if its log function called or not. To inject dependency in jest, we need to apply four steps;
+In order to test that simple `log` function, we need to inject `fancyLoggerMock`, hence we would be able to check if its log function is called or not. To inject dependency in jest, we need to apply four steps;
 
 * Create `__mock__` directory sibling to module you want to inject
-* Create a file named exactly same, `fancy-logger` in this case, inside the mock directory
+* Create a file named exactly the same, `fancy-logger` in this case, inside the `__mock__` directory
 * Write your mock implementation inside of that file (or just return a simple mock and change it according to test's needs)
 * Require original file path, and mock original code path(`jest.mock(path)`) inside of your test
 
