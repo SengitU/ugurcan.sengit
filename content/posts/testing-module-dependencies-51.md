@@ -31,7 +31,7 @@ In order to test that simple `log` function, we need to inject `fancyLoggerMock`
 * Create `__mock__` directory sibling to module you want to inject
 * Create a file named exactly the same, `fancy-logger` in this case, inside the `__mock__` directory
 * Write your mock implementation inside of that file (or just return a simple mock and change it according to test's needs)
-* Require original file path, and mock original code path(`jest.mock(path)`) inside of your test
+* Require original file path, and mock original file path(`jest.mock(path)`) inside of your test
 
 This is too much. Meanwhile this approach bloats your file structure, it's also easy to forget some of the steps. Instead of injecting dependency via some framework magic, we should consider writing our code loosely coupled. For this purpose, I would suggest two approaches.
 
@@ -52,7 +52,7 @@ const reporter = (outputDevice) => {
 module.exports = reporter;
 ```
 
-With this approach, `reporter` module does not aware of the output device. Only important thing for the reporter here is the `interface` of the `outputDevice`, fancyLogger is no longer responsibility of reporter. We can create various types of output devices for our needs;
+With this approach, `reporter` module is not aware of the output device. Only important thing for the reporter here is the `interface` of the `outputDevice`, fancyLogger is no longer responsibility of reporter. We can create various types of output devices for our needs;
 
 ```js
 const reporter = require("reporter");
