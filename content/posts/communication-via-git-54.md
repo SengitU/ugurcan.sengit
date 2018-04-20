@@ -5,11 +5,11 @@ tags: ["Git", "communication", "Apprenticeship"]
 date: 2018-04-19
 ---
 
-Software is a living thing. It requires care, you need to continuously improve it every day, like caring a flower. You need to clean it from its bugs, you need to freshen up its soil. As in software, you also need to clear your code from bugs, and you also need to add value constantly by `leaving the camp ground cleaner than you find it`.
+Software is a living thing. It requires care, you need to continuously improve it every day, like caring a flower. You need to clean it from its bugs, you need to freshen up its soil. Also in software, you need to clear your code from bugs, and you need to add value constantly by `leaving the camp ground cleaner than you find it`.
 
-Maintainability is important, companies invest into software to use and improve it for years. On the other hand, software projects tend to grow so fast, in a fresh project, you will have hundreds of commits within first 6 months. In such a huge codebase, how can we communicate with the former colleagues to ask the impact of a change? How can we answer questions from the future? We could have achieved that if we had a journal to track the changes. Fortunately, we have something better than journal, we have `git`.
+Maintainability is important, companies invest into software to use and improve it for years. On the other hand, software projects tend to grow so fast, in a fresh project, you will have hundreds of commits within the first 6 months. In such a huge codebase, how can we communicate with the former colleagues to ask the impact of a change? How can we answer questions from the future? We could have achieved that if we had a journal to track the changes. Fortunately, we have something better than journal, we have `git`.
 
-With each commit, we contribute the life-cycle of the project. It's our responsibility to explain our changes to the future contributors, to make the project more maintainable. We have such a powerful tool, but to make it worth, we need to use it right.
+With each commit, we contribute to the life-cycle of the project. It's our responsibility to explain our changes to the future contributors, to make the project more maintainable. We have such a powerful tool, but to make it worth, we need to use it right.
 
 ### Commit Messages
 
