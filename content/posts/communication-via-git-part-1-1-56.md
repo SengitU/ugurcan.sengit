@@ -41,3 +41,5 @@ I decided to devote this blog post to trace the answers. Taking another look wit
 Most of the bullet points above depends on the agreement with your team. Changing them are usually harmless as long as you have a standard.
 
 Remember the importance of the commit messages, they aren't that important until they are. When they are important, it would be so hard to track down 6 months in a library without standard.
+
+_PS: Some [valuable resources](https://trello.com/c/oVrqtzYz/243-examine-whys-in-commit-messages-blog-post) helped me to write this blog post_
