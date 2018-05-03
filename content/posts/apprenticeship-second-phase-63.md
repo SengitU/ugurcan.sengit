@@ -12,6 +12,8 @@ When I first read about the [Melvin Conway's](https://en.wikipedia.org/wiki/Melv
 This is wrong in so many aspects. First of all, this abstraction would never work. A software crafter should be aware of the whole system she built in order to think generic enough. Also, a crafter will be able to contribute project with new and shiny ideas only if she can know the product itself. Conway's words made sense after adopting this mind-set.
 
 > ... organizations which design systems (in the broad sense used here) are constrained to produce designs which are copies of the communication structures of these organizations.
+>
+> \- M. Conway
 
 What we do is all about people. Back in 90's the cool things was to write code that no one understands, today even our code needs to communicate with the people.
 
