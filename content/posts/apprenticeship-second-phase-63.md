@@ -19,4 +19,4 @@ What we do is all about people. Back in 90's the cool thing was to write code th
 
 My duty in the second phase of apprenticeship is to join different teams at HolidayCheck. It's highly encouraged to join teams focused on something other than software, which makes total sense as I explained above. By joining different teams, I will be able to learn more about not only product itself, but the culture that produces, sells, and monitors that product as a whole.
 
-Second phase of my apprenticeship is an elegant touch which promises a lot. In worst case, it will create bounds across the teams, but for the best case, sky is the limit.
+Second phase of my apprenticeship is an elegant touch which promises a lot. In worst case, it will create bonds across the teams, but for the best case, sky is the limit.
