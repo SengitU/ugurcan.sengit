@@ -7,7 +7,7 @@ date: 2018-05-03
 
 Even though we deal with the problems in our field of expertise each day, we actually solve problems related to the people. At least that was the case for me during my whole career. I touched people's life by the help of the software on different fields. Medical, telecommunication and e-commerce to be exact. After evaluating my whole career, I can surely say that, coding is never the hardest challenge in our jobs, but communicating is.
 
-When I first read about the [Melvin Conway's](https://en.wikipedia.org/wiki/Melvin_Conway) law on software structure, I didn't agree that much. I was thinking on a different angle; business people was responsible to communicate with the costumer and it was their responsibility to pass tickets to us. Our responsibility was to implement issues.
+When I first read about the [Melvin Conway's](https://en.wikipedia.org/wiki/Melvin_Conway) law on software structure, I didn't agree that much. I was thinking on a different angle; business people was responsible to communicate with the costumer and it was their responsibility to pass tickets to us. Our responsibility was to implement them.
 
 This is wrong in so many aspects. First of all, this abstraction would never work. A software crafter should be aware of the whole system she built in order to think generic enough. Also, a crafter will be able to contribute to the project with new and shiny ideas only if she can know the product itself. Conway's words made sense after adopting this mind-set.
 
