@@ -7,7 +7,7 @@ date: 2018-05-08
 
 This week, I will work on another weak link in my toolset. For the following couple blog posts, I will try to write about history and necessity of continuous integration. By doing so, I am sure I will come up with more than I expected. Currently, it's obvious that we need continuous integration and we have solid reasons for ourselves.
 
-We have been shaping continuous integration ever since the concept was first developed so that it would fulfill our constantly changing needs? But, what I would like to learn is;
+We have been shaping continuous integration ever since the concept was first developed so that it would fulfill our constantly changing needs. But, what I would like to learn is;
 
 * What was the definition of continuous integration when it was newly introduced?
 * Was it the same, or did we really shaped it over time?
