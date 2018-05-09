@@ -1,6 +1,6 @@
 ---
 title: "Webpack Meets React Meetup"
-slug: "webpack-meets-react-meetup-68"
+slug: "webpack-meets-react-meetup"
 tags: ["Meetup", "React", "Webpack", "apprenticeship"]
 date: 2018-05-09
 ---
