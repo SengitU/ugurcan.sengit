@@ -41,7 +41,7 @@ pipeline {
 
 Applying this code to my Jenkinsfile yielded my first victory. After committing this, you will have first successful build with visual stage definitions.
 
-I naively added the `sh 'npm install'` inside of the `testing` stage, of course, it failed. I realized the fact that I need to define environment which code snippet run on. After a quick search, I've installed the Node plugin and I've configured it to the version I need. In modern CI tools, like Travis, they find out the environment for you, you only need to configure if you need a specific version of the environment. This step exposed me a process done under the hood by other tools, it's important to realize this facts in order to grasp the concept itself.
+I naively added the `sh 'npm install'` inside of the `testing` stage, of course, it failed. I realized the fact that I need to define environment which code snippet runs on. After a quick search, I've installed the Node plugin and I've configured it to the version I need. In modern CI tools, like Travis, they find out the environment for you, you only need to configure if you need a specific version of the environment. This step exposed me a process done under the hood by other tools, it's important to realize this facts in order to grasp the concept itself.
 
 I removed my `build` stage since I don't have anything other than `npm install` and my `test` stage became like this;
 
@@ -58,7 +58,7 @@ stage('Test') {
 }
 ```
 
-Since I use a monorepo, a wrapper repo with related projects, I need to move a spesific folder with `dir` command. Usage of this command felt counter-intuitive to me, I tried to use it as follows;
+Since I use a monorepo, a wrapper repo with related projects, I need to move into a spesific folder with `dir` command. Usage of this command felt counter-intuitive to me, I tried to use it as follows;
 
 ```groovy
 dir('core')
@@ -70,7 +70,7 @@ nodejs(nodeJSInstallationName: 'Node-9.11.1') {
 
 You need to unlearn, before learn something new. Intuitiveness depends on your experience. Upside of this syntax is, you don't need to write something equivalent to `cd ..` in order to return to the previous folder. With this syntax, program knows exactly when to return to the previous folder.
 
-Being able to run commands with `sh`, made me capable of run tests and create containers. After creating the container of my application, I was ready to deploy, until I ask a question to myself. It took hours of thinking and surfing on the internet to finally have an idea.
+Being able to run commands with `sh`, made me capable of running tests and creating containers. After creating the container of my application, I was ready to deploy, until I ask a question to myself. It took hours of thinking and surfing on the internet to finally have an idea.
 
 > Should I run the tests and create the container, or should I create the container first, then run the tests inside of the container?
 
