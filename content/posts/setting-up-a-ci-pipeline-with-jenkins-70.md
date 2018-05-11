@@ -1,5 +1,5 @@
 ---
-title: "Setting Up a CI Pipeline with Jenkins DRAFT"
+title: "Setting Up a CI Pipeline with Jenkins"
 slug: "setting-up-a-ci-pipeline-with-jenkins"
 tags: ["Jenkins", "Docker", "Git", "apprenticeship"]
 date: 2018-05-11
