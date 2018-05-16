@@ -12,18 +12,18 @@ We wanted to do both, providing a file makes development easier, but in the prod
 How would you store these credentials in Jenkins? It was quite easy actually, but still, it was hard until I learnt how to do it. In order to provide these secret credentials from Jenkins, you can apply following steps;
 
 * In your Jenkins home page, select the project
-* Select `Pipeline Syntax` from the menu
-* Select `Snippet Generator` from the menu
+* Select **Pipeline Syntax** from the menu
+* Select **Snippet Generator** from the menu
 
 Snippet generator will help us to generate necessary groovy script to provide the variables. In the snippet generator;
 
-* From `Sample Steps` menu, select `withCredentials`
-* In `Bindings` section, select `Add` to create a new binding
-* Select the type of the binding, in my case, it was `Secret Text`
+* From **Sample Steps** menu, select **withCredentials**
+* In **Bindings** section, select **Add** to create a new binding
+* Select the type of the binding, in my case, it was **Secret Text**
 * Provide a variable name for the secret you want to use
-* Provide the secret text to Jenkins by clicking `Add` button
+* Provide the secret text to Jenkins by clicking **Add** button
 
-By following the steps above, you can inject your secrets as variables. After creating your variables, click the `Generate Pipeline Script` and let the Jenkins do the work for you. In my case, Jenkins created a script as follows;
+By following the steps above, you can inject your secrets as variables. After creating your variables, click the **Generate Pipeline Script** and let the Jenkins do the work for you. In my case, Jenkins created a script as follows;
 
 ```groovy
 withCredentials([
@@ -35,4 +35,4 @@ withCredentials([
 }
 ```
 
-Inside the `withCredentials` scope provided by the Jenkins, you will be able to use these variables. I've provided these variables to my Docker container with `-e` flag.
+Inside of the `withCredentials` scope provided by the Jenkins, you will be able to use these variables. I've provided these variables to my Docker container with `-e` flag.
