@@ -5,7 +5,7 @@ tags: ["CI", "AWS", "Jenkins", "apprenticeship"]
 date: 2018-05-16
 ---
 
-I needed to create a connection with the AWS services in order to receive the data. It's easy to create a connection if you have your credentials. Since every individual's credentials are unique, you should avoid committing them. There are various ways to overcome this problem, you can create a file and use that file to provide credentials in development, so that everyone can use their own credentials. Another way is to provide these credentials is using environmental variables.
+I needed to create a connection with the AWS services in order to receive the data. It's easy to create a connection if you have your credentials. Since every individual's credentials are unique, you should avoid committing them. There are various ways to overcome this problem, you can create a file and use that file to provide credentials in development, so that everyone can use their own credentials. Another way to provide these credentials is using the environmental variables.
 
 We wanted to do both, providing a file makes development easier, but in the production, we should avoid using our own credentials. On the other hand, production credentials are usually restricted for couple people. We've needed a solution which would work both with the file and with the environmental variables. To overcome this, we've used a great module called [dotenv](https://www.npmjs.com/package/dotenv). `dotenv` module injects the content of the `.env` file to the environmental variables for development purposes.
 
