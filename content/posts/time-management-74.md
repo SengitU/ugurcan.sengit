@@ -35,4 +35,4 @@ I've calculated **# of working days** during my apprenticeship and the **# of ta
 * Agile Methods; 5.6 Days
 * Others; 2.6 Days
 
-By sticking to the plan, I've managed to reflect my focuses during my apprenticeship.
+By sticking to the plan, I've managed to reflect what I've focused on during my apprenticeship.
