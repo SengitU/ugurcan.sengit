@@ -1,8 +1,8 @@
 ---
 title: "Github's Acquisition"
 slug: "githubs-acquisition"
-tags: ["Github", "Microsoft", "apprenticeship"]
-date: 2018-06-06
+tags: ["Github", "Microsoft", "OSS", "apprenticeship"]
+date: 2018-06-07
 ---
 
 My twitter timeline gone crazy this weekend with the big news about Github's acquisition by Microsoft. For the first couple tweets, I didn't believe it. Later on, it started to make sense. They are using this open source platform to move their projects forward, check out the number of projects they have on [Github](https://github.com/Microsoft?page=1).
