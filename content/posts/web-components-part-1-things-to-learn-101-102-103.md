@@ -2,7 +2,7 @@
 title: "Web Components Part 1: Things to Learn"
 slug: "web-components-part-1-things-to-learn"
 tags: ["Webcomponents", "JS", "HTML", "apprenticeship"]
-date: 2018-06-26
+date: 2018-06-28
 ---
 
 In the following couple posts, I will write down my learnings about web components.
