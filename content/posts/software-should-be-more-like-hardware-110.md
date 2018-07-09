@@ -25,7 +25,7 @@ Can you observe the shapes of the pins? Some of them are square shaped, while so
 
 After assembling my hardware and installing my operating system, I had a software problem lasted like 3 or 4 days. Apart from my individual software problem(which I will write a blog post about), the confidence provided by the hardware was fascinating. Honestly, I don't think we provide such level of confidence as software developers. For a complete beginner, it will be extremely hard to build an application, yet it was so easy to build a computer from scratch. Even in the advanced levels, our API's are not intuitive enough and requires reading and understanding, while in hardware it's almost impossible to commit mistakes.
 
-All of these make me think of Bret Victor's talk about the future of programming. We failed to create a way to communicate between services, then we created something called API. The problem with APIs is they are strictly dependent on the understanding of humans which use or create them. This is not the best way to solve this problem since humankind can easily be mistaken.
+All of these make me think of Bret Victor's talk about the [future of programming](https://www.youtube.com/watch?v=8pTEmbeENF4). We failed to create a way to communicate between services, then we created something called API. The problem with APIs is they are strictly dependent on the understanding of humans which use or create them. This is not the best way to solve this problem since humankind can easily be mistaken.
 
 ### Citation
 - Breadboards: https://en.wikipedia.org/wiki/Breadboard
