@@ -1,6 +1,6 @@
 ---
-title: "CSS First Mindset"
-slug: "css-first-mindset"
+title: "Javascript First Mindset"
+slug: "js-first-mindset"
 tags: ["CSS", "web development", "apprenticeship"]
 date: 2018-07-19
 ---
