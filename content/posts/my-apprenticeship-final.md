@@ -2,7 +2,7 @@
 title: "My Apprenticeship"
 slug: "my-apprenticeship"
 tags: ["apprenticeship"]
-date: 2018-07-27
+date: 2018-07-25
 ---
 
 My days as an apprentice slowly coming to an end. As the final day arrives, I have an irresistible desire to share. I would like to share how I felt, how I learnt, how I've changed during my apprenticeship.
