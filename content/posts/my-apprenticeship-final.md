@@ -5,13 +5,13 @@ tags: ["apprenticeship"]
 date: 2018-07-25
 ---
 
-My days as an apprentice slowly coming to an end. As the final day arrives, I have an irresistible desire to share. I would like to share how I felt, how I learnt, how I've changed during my apprenticeship.
+My days as an apprentice are slowly coming to an end. As the final day arrives, I have an irresistible desire to share. I would like to share how I felt, how I learnt, how I've been changed during my apprenticeship.
 
-It's really hard to structure everything flowing in my mind, I'll follow the three phases I had during the application.
+It's really hard to structure everything flowing in my mind, so I'll follow the three phases I had during the apprenticeship.
 
 ## The Basics
 
-Contrary to its name, this phase was the hardest part of the apprenticeship for me. During this phase, you need to learn important techniques about not just software development, but also human skills like communication, facilitation. Apart from the learnings, you need to set your mind to learn. It's easy to learn more about what you are currently doing, but by doing so you channel yourself more on the way you are already doing things. As you specialize more on a technique, you lost your flexibility and you create your own bubble. **The very first step I took was to wear the white belt**.
+Contrary to its name, this phase was the hardest part of the apprenticeship for me. During this phase, you need to learn important techniques about not just software development, but also human skills like communication and facilitation. Apart from the learnings, you need to set your mind to learn. It's easy to learn more about what you are currently doing, but by doing so you channel yourself more on the way you are already doing things. As you specialize more on a technique, you lost your flexibility and you create your own bubble. **The very first step I took was to wear the white belt**.
 
 ### Wearing the White Belt
 
@@ -21,7 +21,7 @@ When I started to observe, finally I wore the white belt. I figured out what nee
 
 ### Self-Discipline
 
-You should've been there to see my glowing eyes when I opened myself for learning. The excitement I felt after I've decided what to learn during the 6 months... I want everyone to be an apprentice one day just to feel that way. Unfortunately, excitement alone is not enough. First of all, you need to come up with a plan, but having a solid plan is still not enough. You must have the discipline to follow the plan, otherwise, you can easily waste your apprenticeship without noticing. During the apprenticeship, you learn more about yourself, and I've learnt how much I like to stick to a plan. With the help of my colleagues, I came up with a great plan that helped me this 6 months.
+You should've been there to see my glowing eyes when I opened myself to learning. The excitement I felt after I've decided what to learn during the 6 months... I want everyone to be an apprentice one day just to feel that way. Unfortunately, excitement alone is not enough. First of all, you need to come up with a plan, but having a solid plan is still not enough. You must have the discipline to follow the plan, otherwise, you can easily waste your apprenticeship without noticing. During the apprenticeship, you learn more about yourself, and I've learnt how much I like to stick to a plan. With the help of my colleagues, I came up with a great plan that helped me during these 6 months.
 
 ### Self-Learning
 
@@ -51,7 +51,7 @@ Instead of rushing to the code right away, this time I've preferred to communica
 
 ### Notes About the Implementation
 
-Even though this stage feels like a stage to reflect my learnings, I just didn't want to stop learning. I knew it would be challenging, but the more challenging the more fun. Therefore, I implemented my application with HTML Custom Elements as known as Web Components. During the project, there was a module kind of harder to test. At first, I just code the implementation, but right before committing it, I started to question myself;
+Even though this stage feels like a stage to reflect my learnings, I just didn't want to stop learning. I knew it would be challenging, but the more challenging the more fun. Therefore, I implemented my application with HTML Custom Elements as known as Web Components. During the project, there was a module kind of harder to test. At first, I just wrote the implementation, but right before committing it, I started to question myself;
 
 - _Why is it hard to test?_
 - _Can't you just do it better?_
