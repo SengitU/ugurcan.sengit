@@ -15,23 +15,23 @@ Contrary to its name, this phase was the hardest part of the apprenticeship for 
 
 ### Wearing the White Belt
 
-I wanted to keep my flexibility while keep learning during my apprenticeship. But as I mentioned, it's not possible to see different opinions if you learn more about what you are already doing. After years of hands-on professional experience and much more social experience with the help of the [IEEE](https://www.ieee.org/), I almost always had an idea about the topic. To wear the white belt, you need to silence that inner voice. You need to talk less and observe more just to find out the different point of views. It's not as easy as sounds, during my life I saw so many people just can't observe. Knowing that every mind is unique helped me to observe. When you start to observe, you open yourself to the possibilities, new ideas, new techniques.
+I wanted to keep my flexibility while keep learning during my apprenticeship. But as I mentioned, it's not possible to see different opinions if you learn more about what you are already doing. After years of hands-on professional experience and much more social experience with the help of the [IEEE](https://www.ieee.org/), I almost always had an idea about the topic. To wear the white belt, you need to silence that inner voice. You need to talk less and observe more just to find out the different point of views. It's not as easy as sounds, during my life I saw so many people just can't observe. Knowing that every mind is unique helped me to observe. When you start to observe, you open yourself to the possibilities, new ideas and new techniques.
 
 When I started to observe, finally I wore the white belt. I figured out what needs to be learnt and I started to bake my knowledge with my new learnings.
 
 ### Self-Discipline
 
-You should've been there to see my glowing eyes when I open myself for learning. The excitement after I decided what to learn during the 6 months, I want everyone to be an apprentice one day just to feel that way. Unfortunately, excitement alone is not enough. First of all, you need to come up with a plan, but having a solid plan is still not enough. You must have the discipline to follow the plan, otherwise, you can easily waste your apprenticeship without noticing. During the apprenticeship, you learn more about yourself, and I've learnt how much I like to stick to a plan. With the help of my colleagues, I come up with a great plan that helped me this 6 months.
+You should've been there to see my glowing eyes when I opened myself for learning. The excitement I felt after I've decided what to learn during the 6 months... I want everyone to be an apprentice one day just to feel that way. Unfortunately, excitement alone is not enough. First of all, you need to come up with a plan, but having a solid plan is still not enough. You must have the discipline to follow the plan, otherwise, you can easily waste your apprenticeship without noticing. During the apprenticeship, you learn more about yourself, and I've learnt how much I like to stick to a plan. With the help of my colleagues, I came up with a great plan that helped me this 6 months.
 
 ### Self-Learning
 
-After I started to execute my plan, I realized the sufficient way to learn is getting bottom of the things. With this attitude, I've started to question very fundamentals of the topics. Even though reading and writing, discussing are great practices to learn, they were not sufficient enough for me. Then I've discovered one more thing about myself, I learn through practice. All these discoveries shaped my process over time. I've decided to follow three steps to learn;
+After I started to execute my plan, I realized the efficient way to learn is getting to the bottom of things. With this attitude, I've started to question very fundamentals of the topics. Even though reading, writing and discussing are great practices to learn, they were not productive enough for me. Then I've discovered one more thing about myself, I learn through practice. All these discoveries shaped my process over time. I've decided to follow three steps to learn;
 
 - Read: Reading the resources about the topic
 - Practice: Practicing the topic itself. It was easy to practice technical topics, for the rest I've needed to be more creative. Like facilitating an internal Lightning Talks, or facilitating a team's retrospective meeting.
 - Debrief: Reflecting the learnings by discussing with a colleague or writing a blog post, or both.
 
-Later on, I wanted to apply my learnings on internal projects. This led me to complete two internal, two external projects.
+Later on, I wanted to apply my learnings on internal projects. This led me to complete two internal and two external projects.
 
 ## The Business
 
@@ -41,9 +41,9 @@ During this phase, I sat together with sales and marketing departments in order 
 
 ## The Masterpiece
 
-When heard about the masterpiece phase for the first time, I started to think about it right away. At the end of the apprenticeship, I needed to complete my masterpiece. A masterpiece shaped around my learnings for the six months. Honestly, In the very first days of my apprenticeship, I was concerned about my masterpiece. I had so many unanswered questions in my mind, simply because it wasn't the time to answer them yet.
+When I heard about the masterpiece phase for the first time, I started to think about it right away. At the end of the apprenticeship, I needed to complete my masterpiece, a masterpiece that is shaped around my learnings for the six months. Honestly, in the very first days of my apprenticeship, I was concerned about my masterpiece. I had so many unanswered questions in my mind, simply because it wasn't the time to answer them yet.
 
-After learning about various topics for four months and learning specifically about the HolidayCheck for two months, I had a couple of ideas for my masterpiece project. Over the course of the time, I was done with the unanswered questions and my mind was crystal clear.
+After learning about various topics for four months and learning specifically about HolidayCheck for two months, I had a couple of ideas for my masterpiece project. Over the course of time, I was done with the unanswered questions and my mind was crystal clear.
 
 ### Baking the Idea
 
@@ -53,7 +53,7 @@ Instead of rushing to the code right away, this time I've preferred to communica
 
 Even though this stage feels like a stage to reflect my learnings, I just didn't want to stop learning. I knew it would be challenging, but the more challenging the more fun. Therefore, I implemented my application with HTML Custom Elements as known as Web Components. During the project, there was a module kind of harder to test. At first, I just code the implementation, but right before committing it, I started to question myself;
 
-- _Why it is hard to test?_
+- _Why is it hard to test?_
 - _Can't you just do it better?_
 - _How do you know if it gets broken?_
 
@@ -63,6 +63,6 @@ With all of these in my mind, I reset my code and tried harder to make it testab
 
 During my apprenticeship, I had the chance to learn about the teams' values and technology stacks. I found the most suitable team for me and even I've contributed their codebase. After the final day of my apprenticeship, I will join that team to contribute even more.
 
-Joining a team is not the end of the story. Apprenticeship program will continue in the HolidayCheck and over the course of time, we will have more apprentices. As an ex-apprentice, I will strive to help any individual who wants to learn.
+Joining a team is not the end of the story. Apprenticeship program will continue in HolidayCheck and over the course of time, we will have more apprentices. As an ex-apprentice, I will strive to help any individual who wants to learn.
 
 Do you want to discover yourself with the help of the apprenticeship program? Check out [apprenticeship at HolidayCheck](https://apprenticeship.holidaycheck.com/).
