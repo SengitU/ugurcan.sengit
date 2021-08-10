@@ -9,13 +9,13 @@ date: 2021-08-10
 
 I've realised recently I've been engaging discussions related to the web development too often. They're generally involved around fundemantal, but neglected topics. To me;
 
-## *Semantic HTML conveys meaning*
+## **Semantic HTML conveys meaning**
 
 I can not emphasize this enough. In multiple occasions I've observed that semantics simply neglected, because a div tag will also be rendered. Often times in applications that are login gated(where SEO is not applicable), I've seen people just utilising `div`s instead of `form`, `img`, `section` tags and many more I've already forgotten. 
 First of all, certain HTML tags has their own functionality out of the box.
 
 - A form will send request a when provided with necessary attributes
-- A form will trigger onSubmit event, when an input within the form fires a keypress_enter event.
+- A form will trigger `onSubmit` event, when an input within the form fires a `keypress_enter` event.
 
 By using div instead of a form, we literally opt-out from the features provided by the platform and we decide to implement them for ourselves.
 For container that contains a heading text alongside with a descriptive content, section tag should be used. Even though render result will be the same, by conveying proper tags, we could easily provide content that is easily readable by the screen readers.
